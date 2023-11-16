@@ -99,4 +99,8 @@ Starting with data preprossing, it is important to identify the target and featu
 ![image](https://github.com/amccollough1/deep-learning-challenge/assets/133404805/586bac04-b4da-40af-8b40-52b0f772688f)
 
 
-In the optimization, I selected 4 neuron,  3 layers, 3 activation functions to optimze my model performance. This model successfully acheived a 75% accuracy score or higher. Which allows it to be a useful model. To optimize the model's performance, I kept thee "NAME" feature in the data set, then proceeded with binning. Then I added a third hidden layer and adjusted the number of layers of the others. 
+In the optimization, on my first attempt, I changed the number of hidden layers. Node 1 = 20, Node 2 =10.  This did not optimize the model, as it did not run properly in google colab nor jupyter notebook. 
+
+
+![image](https://github.com/amccollough1/deep-learning-challenge/assets/133404805/bf9f5ece-7739-44b9-a04b-578b38414ddf)
+
